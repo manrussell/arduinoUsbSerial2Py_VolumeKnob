@@ -1,0 +1,5 @@
+linux commands:
+
+find files of type recursively starting at current folder
+find . -type f -name "*.txt"
+
